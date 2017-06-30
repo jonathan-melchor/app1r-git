@@ -2,13 +2,13 @@
 
  <widget xmlns = "http://wwww.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id = "com.phonegap.example5"
+   id = "com.phonegap.example10"
    version ="1.0.0">
    
  <name>app1r Especialidades CBTis16</name>
  
  <description>
-  Muestras las diferentes especialidades del CBTis16
+  Aplicacion que informa sobre Especialidades del CBTis16
  </description>
  
  <author href="https://build.phonegap.com" email="jonathan.melchor.cbtis16@gmail.com">
@@ -33,14 +33,14 @@
  <!--plugin name="cordova-plugin-geolocation" source="npm"/>-->
   <!--Third party plugins-->
   
-  <!--Para acceder a paginas en internet-->
+  <!-- Para acceder a paginas en internet-->
 	<allow-intent href="https://*/*"/>
 	<acces origin="https://*/*"/>
 	<allow-intent href="http://*/*"/>
 	<acces origin="http://*/*"/>
-	<plugin name="cordova-plugin-whitelist" source="npm"/
+	<plugin name="cordova-plugin-whitelist" source="npm"/>
   
-  <!--Colocar icono app-->
+  <!--Colocar iciono app-->
   
  <icon src="res/android/mdpi.png"/>
  
